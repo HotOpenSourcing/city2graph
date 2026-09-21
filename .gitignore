@@ -7,7 +7,6 @@ __pycache__/
 .uv_cache/
 
 # IDEs
-.vscode/
 .idea/
 
 # Testing
@@ -51,3 +50,5 @@ city2graph_overture.ipynb
 AGENTS.md
 CLAUDE.md
 .claude/*
+config.bat
+node_modules
